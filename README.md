@@ -36,11 +36,11 @@ The primary data source used for this analysis is the "Pivot Table Data xlsx" fi
 
   g. which quarter has the highest revenue
 
-  h. what is the revenue by models sold
+  h. what is the models sold with the highest revenue
 
   i. what is the total unit sold by month
 
-  j. what is the total revenue by day categories
+  j. what day categories has the highest revenue
 
   k. what is the total revenue by sale categories
 
@@ -52,3 +52,39 @@ The primary data source used for this analysis is the "Pivot Table Data xlsx" fi
 Excel
 =IF(M2<=20,"Low", IF(M2<=50, "Medium", IF(M2>50, "High")))
 '''
+
+## Results/Findings
+  - the top 5 markets by revenue are Ekiti, Abia, Bayelsa, Akwa Ibom and Kogi
+  - the top 10 stores are;
+    - Ankpa
+    - Ajaokuta
+    - Arochukwu
+    - Ekiti South-West
+    - Nembe
+    - Ekiti East
+    - Ado-Odo/Ota
+    - Dukku
+    - Bauchi
+    - Askira/Uba
+
+  - the total revenue by region is  ₦ 73,031,990,280
+  - the bottom 5 stores by unit sold are; Boki, Kwali, Chibok, Isiala Ngwa South, Akinyele
+  - company revenue by month is same as total revenue by region with March having the highest revenue of ₦ 8,458,780,440 for the years under review
+  - 2014 had the highest total sales and percentage of ₦ 48,464,608,200 which accounts for 66% of the total sales and 2015 had ₦ 24,567,382,080 which accounts for 34% of the total sales
+  - Quarter 1 accounted for the highest sales with ₦ 24,538,923,000 which is 33.6% of the total revenue
+  - Model 3002P has the highest revenue of ₦ 26,213,998,800 which is 35.89% of the total revenue
+  - June had the highest unit sold for the months under review with 90,022 units
+  - "workday category" had the highest revenue of ₦ 69,049,294,920 which accounts for 94.55% of the total revenue
+  - Total revenue by sales categories is;
+      High	₦ 16,032,449,520
+      Low	₦ 26,476,629,720
+      Medium	₦ 30,522,911,040
+      Grand Total	₦ 73,031,990,280
+  - "service plan" line of business recorded the highest revenue with a total of ₦ 51,866,481,960 accounting for 71.02% of the total revenue
+
+
+
+
+
+
+
