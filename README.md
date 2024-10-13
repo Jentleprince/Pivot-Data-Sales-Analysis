@@ -9,4 +9,36 @@ The primary data source used for this analysis is the "Pivot Table Data xlsx" fi
 - Ms Excel - used for data cleaning [download here "https://microsoft.com)
 - Pivot Table - used for data summarization
 - Excel Dashboard - used for data visualization
+
+## Data cleaning and Preparation
+  in the course of preparing this data set for analysis, the following was done;
+  1. Data loading and inspection
+  2. categorization of unit sold into "High", "medium" and "low" using the "if" condition
+  3. separated the trade date into day, month and year for proper analysis and inference
+     
+## Exploratory Data Analysis
+  a. What are the top 5 Market by Revenue	
   
+  b. what are the top 10 Stores by Revenue
+  
+  c. what is the total Revenue by Region	
+  
+  d. which are the bottom 5 stores by Unit Sold	
+  
+  e. what is the company's revenue by Month	
+
+  f. what is the sales and percentage total per year
+
+  g. which quarter has the highest revenue
+
+  h. what is the revenue by models sold
+
+  i. what is the total unit sold by month
+
+  j. what is the total revenue by day categories
+
+  k. what is the total revenue by sale categories
+
+  l. which line of business recorded the highest revenue
+  
+
