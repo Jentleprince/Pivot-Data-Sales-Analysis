@@ -79,6 +79,7 @@ Excel
 
 ## Charts
 
+[Pivot Tables File.xlsx](https://github.com/user-attachments/files/17356846/Pivot.Tables.File.xlsx)
 
 ## Results&Findings
   - the top 5 markets by revenue are Ekiti, Abia, Bayelsa, Akwa Ibom and Kogi
