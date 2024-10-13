@@ -1,6 +1,7 @@
 # Sakhigbe Resources Sales Analysis
-
+---
 ## Table of Content
+---
  [Project Review](#project-review)
  
  [Data Source](#data-source)
@@ -78,6 +79,7 @@ Excel
 '''
 
 ## Charts
+---
 
 [Pivot Tables File.xlsx](https://github.com/user-attachments/files/17356846/Pivot.Tables.File.xlsx)
 
@@ -95,20 +97,20 @@ Excel
     - Bauchi
     - Askira/Uba
 
-  - the total revenue by region is  ₦ 73,031,990,280
+  - the total revenue by region is  **₦73,031,990,280**
   - the bottom 5 stores by unit sold are; Boki, Kwali, Chibok, Isiala Ngwa South, Akinyele
-  - company revenue by month is same as total revenue by region with March having the highest revenue of ₦ 8,458,780,440 for the years under review
-  - 2014 had the highest total sales and percentage of ₦ 48,464,608,200 which accounts for 66% of the total sales and 2015 had ₦ 24,567,382,080 which accounts for 34% of the total sales
-  - Quarter 1 accounted for the highest sales with ₦ 24,538,923,000 which is 33.6% of the total revenue
-  - Model 3002P has the highest revenue of ₦ 26,213,998,800 which is 35.89% of the total revenue
-  - June had the highest unit sold for the months under review with 90,022 units
-  - "workday category" had the highest revenue of ₦ 69,049,294,920 which accounts for 94.55% of the total revenue
+  - company revenue by month is same as total revenue by region with March having the highest revenue of **₦8,458,780,440** for the years under review
+  - 2014 had the highest total sales and percentage of **₦48,464,608,200** which accounts for **66%** of the total sales and 2015 had **₦24,567,382,080** which accounts for **34%** of the total sales
+  - Quarter 1 accounted for the highest sales with **₦24,538,923,000** which is **33.6%** of the total revenue
+  - Model 3002P has the highest revenue of **₦26,213,998,800** which is **35.89%** of the total revenue
+  - June had the highest unit sold for the months under review with **90,022 units**
+  - "workday category" had the highest revenue of **₦69,049,294,920** which accounts for **94.55%** of the total revenue
   - Total revenue by sales categories is;
-      High	₦ 16,032,449,520
-      Low	₦ 26,476,629,720
-      Medium	₦ 30,522,911,040
-      Grand Total	₦ 73,031,990,280
-  - "service plan" line of business recorded the highest revenue with a total of ₦ 51,866,481,960 accounting for 71.02% of the total revenue
+      High	**₦16,032,449,520**
+      Low	**₦26,476,629,720**
+      Medium	**₦30,522,911,040**
+      Grand Total	**₦73,031,990,280**
+  - "service plan" line of business recorded the highest revenue with a total of **₦51,866,481,960** accounting for **71.02%** of the total revenue
 
 ## Recommendations
   - invest in product awareness in Boki and Kwali to improve patronage and sales
