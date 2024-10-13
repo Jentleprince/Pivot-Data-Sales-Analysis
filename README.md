@@ -1,4 +1,5 @@
 # Sakhigbe Resources Sales Analysis
+ 
 ## Project Review
 ---
 This data analysis project aim to give an insight on the sales performance of Sakhigbe Resources over a period of 2 years (2014 & 2015). By analyzing the various aspects of the sales data, we intend to find trends, make data - driven recommendations and also get a deeper understanding of the company's performance with regards to revenue and units sold in various regions, market, store, model etc.
@@ -81,6 +82,14 @@ Excel
       Medium	₦ 30,522,911,040
       Grand Total	₦ 73,031,990,280
   - "service plan" line of business recorded the highest revenue with a total of ₦ 51,866,481,960 accounting for 71.02% of the total revenue
+
+## Recommendation
+  - invest in product awareness in Boki and Kwali to improve patronage and sales
+  - introduce promotional activities in the North central to attract more people to the product and enhance sales and revenue
+  - get more professionals or organize on the job training for sales reps in the copier sales, parts and printer sales line of business to improve performance and productivity
+  - give incentives to staff in the service plan line of business to encourage them and also challenge others to improve
+  - create more awareness on product models with low revenue and consider dropping them entirely where no improvement is forthcoming after 2 months of intense awareness
+
 
 
 
