@@ -1,4 +1,27 @@
 # Sakhigbe Resources Sales Analysis
+
+## Table of Content
+ [Project Review](#project-review)
+ 
+ [Data Source](#data-source)
+ 
+ [Tools Used](#tools-used)
+ 
+ [Data cleaning and Preparation](#data-cleaning-and-preparation)
+ 
+ [Exploratory Data Analysis](#exploratory-data-analysis)
+ 
+ [Data Analysis](#data-analysis)
+ 
+ [Charts](#charts)
+ 
+ [Results&Findings](#results-findings)
+ 
+ [Recommendations](#recommendations)
+ 
+ 
+ 
+ 
  
 ## Project Review
 ---
@@ -54,7 +77,10 @@ Excel
 =IF(M2<=20,"Low", IF(M2<=50, "Medium", IF(M2>50, "High")))
 '''
 
-## Results/Findings
+## Charts
+
+
+## Results&Findings
   - the top 5 markets by revenue are Ekiti, Abia, Bayelsa, Akwa Ibom and Kogi
   - the top 10 stores are;
     - Ankpa
@@ -83,7 +109,7 @@ Excel
       Grand Total	₦ 73,031,990,280
   - "service plan" line of business recorded the highest revenue with a total of ₦ 51,866,481,960 accounting for 71.02% of the total revenue
 
-## Recommendation
+## Recommendations
   - invest in product awareness in Boki and Kwali to improve patronage and sales
   - introduce promotional activities in the North central to attract more people to the product and enhance sales and revenue
   - get more professionals or organize on the job training for sales reps in the copier sales, parts and printer sales line of business to improve performance and productivity
